@@ -1,7 +1,7 @@
 Hi 👋 My name is Dic Xion (Dickson)
 ===================================
 
-Programmer
+Junior Programmer
 ----------
 
 I'm a Bachelor of Computer Science fresh graduate from Taylor's University.
