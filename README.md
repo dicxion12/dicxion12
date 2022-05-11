@@ -4,7 +4,7 @@ Hi 👋 My name is Dic Xion (Dickson)
 Junior Programmer
 ----------
 
-I'm a Bachelor of Computer Science fresh graduate from Taylor's University.
+Working as a junior programmer in CSE Telematics.
 
 * 🌍  I'm based in Malaysia
 
