@@ -4,7 +4,7 @@ Hi 👋 My name is Dic Xion (Dickson)
 Junior Programmer
 ----------
 
-Working as a junior programmer in CSE Telematics.
+I’m a Bachelor of Computer Science graduate from Taylor’s University with 3 months of mobile development experience (Internship) and 1.5 years of web development experience.
 
 * 🌍  I'm based in Malaysia
 
